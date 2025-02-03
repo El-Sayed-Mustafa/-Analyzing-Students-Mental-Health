@@ -1,6 +1,4 @@
 # -Analyzing-Students-Mental-Health
-Here's a well-structured **README** file for your project:  
-
 ---
 #### **Project Overview**  
 This project explores how the **length of stay** impacts the **mental health diagnostic scores** of **international students**. Using **PostgreSQL**, we analyze a dataset from a **Japanese international university's 2018 study**, which found that international students face a higher risk of mental health challenges.  
